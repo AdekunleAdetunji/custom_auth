@@ -1,6 +1,11 @@
 # Microservice Project
-This repo houses a Django Microservice project.
+This repo houses a Django custom_auth Django Microservice project.
 
-The first app in this project is the **Example project** which
-is being used to explore and master the working of the Django
-web app framework
+The list of apps in this project are
+* Example
+
+Sample app from learning about the django web app
+framework
+* Foundation App
+
+Main app that implements the microservice functionalities
